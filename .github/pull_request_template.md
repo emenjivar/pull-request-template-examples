@@ -1,7 +1,7 @@
 ## Description
 Include  asummary of what your pull request contains, and why you have made these changes.
 
-# Ticket
+## Ticket
 Include links to any relevant ticket related to this pull request.
 
 ## Changes
